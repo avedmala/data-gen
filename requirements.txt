@@ -1,5 +1,6 @@
 DataProfiler[full]
 numpy
 pandas
+scipy
 seaborn
 sklearn
