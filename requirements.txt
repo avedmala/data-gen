@@ -1,0 +1,5 @@
+DataProfiler[full]
+numpy
+pandas
+seaborn
+sklearn
